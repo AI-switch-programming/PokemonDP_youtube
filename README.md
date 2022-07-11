@@ -22,4 +22,6 @@
 ## コマンド等の詳細な仕様について
 コマンドの詳細な仕様についてはこちらをご覧ください。
 
-  
+## ご質問・ご要望等
+[github](https://github.com/AI-switch-programming/PokemonDP_youtube/discussions/8), [Youtubeのチャット欄](https://www.youtube.com/channel/UC_G0xSWO83Xp1h-dtJDePRw/live), [Discordサーバー](https://discord.gg/kAjhKGYx9Y)　　
+上記のサイト、どれでも結構ですので、お気軽にご連絡下さい。
