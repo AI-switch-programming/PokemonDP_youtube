@@ -4,7 +4,7 @@
 ## Youtube LIVE 動画　　
 ### (チャット欄からキャラ操作可能) みんなで進めるポケモン　ブリリアントダイヤモンド  
 ※下の画像をクリックするとライブ動画を見ることができます。
-[![pokemonDaiamond](/img/thumbnail_pokemonDP.png)](https://www.youtube.com/channel/UC_G0xSWO83Xp1h-dtJDePRw/live)　　
+[![pokemonDaiamond](/img/thumbnail_youtube.png)](https://www.youtube.com/channel/UC_G0xSWO83Xp1h-dtJDePRw/live)　　
 
 ## チャット欄での操作方法
 ![操作方法](/img/pro-controler-explanation.png)  
