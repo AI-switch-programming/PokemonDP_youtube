@@ -20,7 +20,14 @@
 ぜひ読んでみてください。  
 
 ## コマンド等の詳細な仕様について
-コマンドの詳細な仕様についてはこちらをご覧ください。
+#### !pushコマンドについて
+- 指定した回数ボタンを連続で押す
+- ボタンを押す間隔は現在、1.5秒  
+- 回数を指定しなかった場合はボタンが１回のみ押される。
+
+#### !pressコマンドについて
+- 指定した秒数ボタンを押し続ける
+- 秒数を指定しなかった場合は0.3秒間押し続ける。
 
 ## ご質問・ご要望等
 [github](https://github.com/AI-switch-programming/PokemonDP_youtube/discussions/8), [Youtubeのチャット欄](https://www.youtube.com/channel/UC_G0xSWO83Xp1h-dtJDePRw/live), [Discordサーバー](https://discord.gg/kAjhKGYx9Y)　　
