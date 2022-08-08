@@ -11,7 +11,7 @@
 画像は[任天堂株式会社の画像](https://www.nintendo.co.jp/hardware/switch/accessories/procon.html?width=960)を引用の上、追記
 
 ## 仕組みについて
-どのようにして、Switchを操作しているか、仕組みをご説明します。(現在作成中)
+どのようにして、Switchを操作しているか、仕組みをご説明します。[仕様等](https://github.com/AI-switch-programming/PokemonDP_youtube/wiki/Wiki)
 
 ## ポケモンが初めてという方へ
 ゲームの操作や目的がわからないという方は、戦闘画面（相手のポケモンと戦っているとき）ではなく、女の子の主人公が歩いている（止まっている）画面で  
