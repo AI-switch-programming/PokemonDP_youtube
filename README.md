@@ -37,7 +37,7 @@
 「メニューを開ける状態」、または「メニューが表示されている場合」に、図鑑、ポケモン、バッグ、トレーナーカード、タウンマップ、ボールデコ、ふしぎなおくりものとチャット欄に入力すると、AIが現在の位置を判断し、入力したものに対応したメニュー画面を自動で開きます。
 
 ・特殊コマンド3：
-そらをとぶ
+わざ名で攻撃
 
 ## ご質問・ご要望等
 [github](https://github.com/AI-switch-programming/PokemonDP_youtube/discussions/8), [Youtubeのチャット欄](https://www.youtube.com/channel/UC_G0xSWO83Xp1h-dtJDePRw/live), [Discordサーバー](https://discord.gg/kAjhKGYx9Y)　　
