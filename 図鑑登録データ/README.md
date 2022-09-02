@@ -6,8 +6,8 @@
 ゲーム内の図鑑のデータを確認し、ポケモンの捕獲の有無を確認し記録する。確認した図鑑データはこのページ上の*.csvとして自動アップロードされる。実行者の名前's commit from Youtube chat.というふうにコマンド実行者の名前がファイル横に表示されており、何分前（何秒前か）というのも表示されているので、自分が実行した際のファイルかも確認できる。    
 
 【使用条件】  
-![シンオウ図鑑](https://github.com/AI-switch-programming/PokemonDP_youtube/blob/main/img/sinou_zukan.png) 　　
-![全国図鑑](https://github.com/AI-switch-programming/PokemonDP_youtube/blob/main/img/world_zukan.png) 　　
+![シンオウ図鑑](https://github.com/AI-switch-programming/PokemonDP_youtube/blob/main/img/シンオウ図鑑.jpg) 　　
+![全国図鑑](https://github.com/AI-switch-programming/PokemonDP_youtube/blob/main/img/全国図鑑.jpg) 　　
 
 画面上に上記の「シンオウずかん」または「全国ずかん」のどちらか表示されているとき  
   
