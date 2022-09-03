@@ -46,7 +46,7 @@
 3. もしお困りの場合はコメント欄でご質問ください。
 
 ## 仕組みについて
-どのようにして、Switchを操作しているか、仕組みをご説明します。[仕様等](https://github.com/AI-switch-programming/PokemonDP_youtube/wiki/Wiki)
+どのようにして、Switchを操作しているか、仕組みをご説明します。（作成中）
 
 ## ポケモンが初めてという方へ
 作成中。。。   
