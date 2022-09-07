@@ -4,7 +4,7 @@
 ## 図鑑登録の方法
 【動作】  
 ゲーム内の図鑑のデータを確認し、ポケモンの捕獲の有無を確認し記録する。確認した図鑑データはこのページ上の*.csvとして自動アップロードされる。実行者の名前's commit from Youtube chat.というふうにコマンド実行者の名前がファイル横に表示されており、何分前（何秒前か）というのも表示されているので、自分が実行した際のファイルかも確認できる。    
-csvデータのAI-switch-programming 実行者の名前's commit from Youtube chat.の「実行者の名前's commit from Youtube chat.」をクリックすれば、以前のデータとの差分が表示され、新たにゲットした情報が更新されているか確認できる。     
+csvデータをクリックした後のAI-switch-programming 実行者の名前's commit from Youtube chat.の「実行者の名前's commit from Youtube chat.」をクリックすれば、以前のデータとの差分が表示され、新たにゲットした情報が更新されているか確認できる。     
 ![図鑑差分](https://github.com/AI-switch-programming/PokemonDP_youtube/blob/main/img/図鑑差分.png) 　　
 
 
