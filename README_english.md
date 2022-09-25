@@ -9,14 +9,14 @@ This page is underconstruction.
 [![pokemonDaiamond](/img/thumbnail_youtube.jpg)](https://www.youtube.com/channel/UC_G0xSWO83Xp1h-dtJDePRw/live)　　
 
 ## How to Play
-![操作方法](/img/pro-controler-explanation.png)  
+![PLAY](/img/pro-controler-explanation.png)  
 Quote image from [Nintendo](https://www.nintendo.co.jp/hardware/switch/accessories/procon.html?width=960) and I add some comments.
 
 ### Normal commands
-[Here](https://github.com/AI-switch-programming/PokemonDP_youtube/wiki/%E9%80%9A%E5%B8%B8%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)を参照
+[Here](https://github.com/AI-switch-programming/PokemonDP_youtube/wiki/%E9%80%9A%E5%B8%B8%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)
 
 ### Special commands（Automatic commands）
-[Here](https://github.com/AI-switch-programming/PokemonDP_youtube/wiki/%E7%89%B9%E6%AE%8A%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)を参照
+[Here](https://github.com/AI-switch-programming/PokemonDP_youtube/wiki/%E7%89%B9%E6%AE%8A%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)
 
 ## Structure of this youtube live system
 (Underconstruction...)
