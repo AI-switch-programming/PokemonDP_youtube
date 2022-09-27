@@ -1,5 +1,5 @@
 # PokemonDP_youtube
-[English available from here.](https://github.com/AI-switch-programming/PokemonDP_youtube/edit/main/README_english.md)   
+[English available from here.](https://github.com/AI-switch-programming/PokemonDP_youtube/blob/main/README_english.md)   
 視聴者操作型　ポケモン ブリリアントダイヤモンドをYoutubeで配信しています。  
 チャット欄から指定のコマンドを入力していただくと、ゲームを操作していただくことができます。　　
 ## Youtube LIVE 動画　　
