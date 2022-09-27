@@ -4,7 +4,7 @@ You can move character and select, use special command by input command in chat 
 This page is underconstruction.
 
 ## Youtube LIVE　　
-### GO Pokemon BDSP world with subscribers.
+### PLAY Pokemon BDSP world with Youtube watchers.
 ※Please click to watch my Youtube live.
 [![pokemonDaiamond](/img/thumbnail_youtube.jpg)](https://www.youtube.com/channel/UC_G0xSWO83Xp1h-dtJDePRw/live)　　
 
